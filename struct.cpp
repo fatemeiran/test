@@ -52,7 +52,7 @@ struct Student {
         if (s[i].study == "CE" || s[i].study == "Computer")
             countCE++;
 
-        if (s[i].birth.month == 11)   // Bahman = 11
+        if (s[i].birth.month == 11)   // rttttt
             countBahman++;
 
         if (s[i].avg > s[maxIndex].avg)
